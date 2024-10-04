@@ -1,0 +1,446 @@
+D:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.exe.config
+D:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.exe
+D:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.pdb
+D:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Guna.UI2.dll
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.AssemblyReference.cache
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.FormAPP.resources
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.Properties.Resources.resources
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.GenerateResource.cache
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.CoreCompileInputs.cache
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.exe
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.pdb
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.Dashboard_Form.resources
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.AddStudents_Form.resources
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.AddOutsideStudents.resources
+D:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.inputNewStudents.resources
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\UnivMI.exe.config
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\UnivMI.exe
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\UnivMI.pdb
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Guna.UI2.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.csproj.AssemblyReference.cache
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.AddOutsideStudents.resources
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.AddStudents_Form.resources
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.Dashboard_Form.resources
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.FormAPP.resources
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.inputNewStudents.resources
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.Properties.Resources.resources
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.csproj.GenerateResource.cache
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.csproj.CoreCompileInputs.cache
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.exe
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.pdb
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.Licensing.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Projects\UnivMI\UnivMI6\UnivMI\obj\Debug\UnivMI.exe.licenses
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.exe.config
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.exe
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.pdb
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.Licensing.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Guna.UI2.dll
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.AssemblyReference.cache
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.AddOutsideStudents.resources
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.AddStudents_Form.resources
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.Dashboard_Form.resources
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.FormAPP.resources
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.inputNewStudents.resources
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.Properties.Resources.resources
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.GenerateResource.cache
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.exe.licenses
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.CoreCompileInputs.cache
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.exe
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.pdb
+I:\Projects\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.FormCopy.resources
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.exe.config
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.exe
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\UnivMI.pdb
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.Licensing.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Guna.UI2.dll
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.AssemblyReference.cache
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.AddOutsideStudents.resources
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.AddStudents_Form.resources
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.Dashboard_Form.resources
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.FormAPP.resources
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.FormCopy.resources
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.inputNewStudents.resources
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.Properties.Resources.resources
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.GenerateResource.cache
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.exe.licenses
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.csproj.CoreCompileInputs.cache
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.exe
+C:\MI Project\UnivMI\UnivMI\UnivMI\obj\Debug\UnivMI.pdb
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\UnivMI.exe.config
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\UnivMI.exe
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\UnivMI.pdb
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.Licensing.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Guna.UI2.dll
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.csproj.AssemblyReference.cache
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.AddOutsideStudents.resources
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.AddStudents_Form.resources
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.Dashboard_Form.resources
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.FormAPP.resources
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.FormCopy.resources
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.inputNewStudents.resources
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.Properties.Resources.resources
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.csproj.GenerateResource.cache
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.exe.licenses
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.csproj.CoreCompileInputs.cache
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.exe
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.pdb
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.InputOutSideStudents.resources
+C:\MI Project\UnivMI\UnivMI15\UnivMI\obj\Debug\UnivMI.InputInternStudent.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\UnivMI.exe.config
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\UnivMI.exe
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\UnivMI.pdb
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.Licensing.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Guna.UI2.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.csproj.AssemblyReference.cache
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.AddOutsideStudents.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.AddStudents_Form.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.Dashboard_Form.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.FormAPP.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.FormCopy.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.InputInternStudent.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.inputNewStudents.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.InputOutSideStudents.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.Properties.Resources.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.csproj.GenerateResource.cache
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.exe.licenses
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.csproj.CoreCompileInputs.cache
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.exe
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.pdb
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.FormReRegisterStu.resources
+C:\MI Project\UnivMI\UnivMI32\UnivMI\bin\Debug\SqlKata.dll
+C:\MI Project\UnivMI\UnivMI32\UnivMI\obj\Debug\UnivMI.ShowStudentsList.resources
