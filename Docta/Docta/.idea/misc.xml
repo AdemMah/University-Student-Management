@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/boutton.xml" value="0.1975" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/boutton_back.xml" value="0.2645" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/boutton_pation_click.xml" value="0.2645" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/checkbox_status.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/checkbox_status_pat_info.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/diab_noun_effect.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/diab_type_one_effect.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/diab_type_tow_effect.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/diab_type_two_effect.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/doctor_click.xml" value="0.2645" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/eye_effect.xml" value="0.1975" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/female_effect.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/ic_arrow_down_sp.xml" value="0.229" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/ic_checked.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/ic_checked_pat_info.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/ic_no_checked.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/ic_no_checked_pat_info.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/male_effect.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/spinner_spec_style.xml" value="0.229" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/spinner_style.xml" value="0.273" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/drawable/text_box.xml" value="0.1975" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/activity_docto_reg_info.xml" value="0.21" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/activity_doctor_reg.xml" value="0.18" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/activity_pation_reg.xml" value="0.2" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/activity_pation_reg_gendr.xml" value="0.25" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/activity_pation_reg_info.xml" value="0.25" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/activity_type_person.xml" value="0.18" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/pation_re_sex.xml" value="0.33" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/spinner_spec_text.xml" value="0.1723684210526316" />
+        <entry key="..\:/Users/adamj/Desktop/Android Projects/DoctaV7/app/src/main/res/layout/xx.xml" value="0.26902173913043476" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

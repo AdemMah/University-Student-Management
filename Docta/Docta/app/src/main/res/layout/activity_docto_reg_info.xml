@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DoctoRegInfoActivity">
+    <Button
+        android:id="@+id/BtnBackPationInfo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_margin="15dp"
+        android:background="@drawable/boutton_back"
+        android:drawableLeft="@drawable/ic_areow_back"
+        android:paddingLeft="8.5dp"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+
+        />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="55dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/productsans_bold"
+        android:text="Votre Profil"
+        android:textColor="#5389D1"
+        android:textSize="28dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="55dp"
+        android:layout_marginTop="84dp"
+        android:fontFamily="@font/productsans_bold"
+        android:text="Choisissez Votre spécialité"
+        android:textColor="#1A2A3F"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+
+    <TextView
+        android:id="@+id/textViewblood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="55dp"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/productsans_bold"
+        android:text="Choisir le Temps de Travail"
+        android:textColor="#1A2A3F"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerSpec" />
+
+    <Spinner
+        android:id="@+id/spinnerSpec"
+        android:layout_width="353dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/spinner_spec_style"
+        android:popupBackground="@drawable/spinner_spec_style"
+        android:spinnerMode="dropdown"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewimage" />
+
+    <Button
+        android:id="@+id/BtnSignUpDoctor"
+        android:layout_width="254dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="70dp"
+        android:background="@drawable/boutton"
+        android:fontFamily="@font/productsans_bold"
+        android:text="Sign Up"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Day7"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <EditText
+        android:id="@+id/TimePm"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/text_box"
+        android:drawableLeft="@drawable/ic_time_job"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:fontFamily="@font/productsans_regular"
+        android:hint="PM-16:00PM"
+        android:includeFontPadding="false"
+        android:inputType="text|datetime"
+        android:paddingLeft="12dp"
+        android:textColorHint="#788699"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
+        app:layout_constraintStart_toEndOf="@+id/TimeAm"
+        app:layout_constraintTop_toBottomOf="@+id/textViewblood" />
+
+    <EditText
+        android:id="@+id/TimeAm"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/text_box"
+        android:drawableLeft="@drawable/ic_time_job"
+        android:drawablePadding="5dp"
+        android:ems="10"
+        android:fontFamily="@font/productsans_regular"
+        android:hint="AM-8:00AM"
+        android:includeFontPadding="false"
+        android:inputType="text|datetime"
+        android:paddingLeft="12dp"
+        android:textColorHint="#788699"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewblood" />
+
+    <CheckBox
+        android:id="@+id/Day2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+
+
+        android:button="@drawable/checkbox_status"
+        android:fontFamily="@font/productsans_regular"
+        android:paddingLeft="5dp"
+        android:text="Dimanche"
+        android:textSize="22dp"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.471"
+        app:layout_constraintStart_toEndOf="@+id/Day1"
+        app:layout_constraintTop_toBottomOf="@+id/TimePm" />
+
+    <CheckBox
+        android:id="@+id/Day5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="20dp"
+        android:button="@drawable/checkbox_status"
+        android:fontFamily="@font/productsans_regular"
+        android:paddingLeft="5dp"
+        android:text="Mercredi"
+        android:textSize="22dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Day3" />
+
+    <CheckBox
+        android:id="@+id/Day3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="20dp"
+        android:button="@drawable/checkbox_status"
+        android:fontFamily="@font/productsans_regular"
+        android:paddingLeft="5dp"
+        android:text="Lundi"
+        android:textSize="22dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Day1" />
+
+    <CheckBox
+        android:id="@+id/Day1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="45dp"
+        android:button="@drawable/checkbox_status"
+        android:fontFamily="@font/productsans_regular"
+        android:paddingLeft="5dp"
+        android:text="Samedi"
+        android:textSize="22dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TimeAm" />
+
+    <CheckBox
+        android:id="@+id/Day4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+
+        android:button="@drawable/checkbox_status"
+        android:fontFamily="@font/productsans_regular"
+        android:paddingLeft="5dp"
+        android:text="Mardi"
+        android:textSize="22dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.413"
+        app:layout_constraintStart_toEndOf="@+id/Day3"
+        app:layout_constraintTop_toBottomOf="@+id/Day2" />
+
+    <CheckBox
+        android:id="@+id/Day7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="50dp"
+        android:button="@drawable/checkbox_status"
+        android:fontFamily="@font/productsans_regular"
+        android:paddingLeft="5dp"
+        android:text="Vendredi"
+        android:textSize="22dp"
+        app:layout_constraintEnd_toEndOf="@+id/Day6"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/Day5"
+        app:layout_constraintTop_toBottomOf="@+id/Day5" />
+
+    <CheckBox
+        android:id="@+id/Day6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:button="@drawable/checkbox_status"
+        android:fontFamily="@font/productsans_regular"
+        android:paddingLeft="5dp"
+        android:text="Jeudi"
+        android:textSize="22dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.259"
+        app:layout_constraintStart_toEndOf="@+id/Day5"
+        app:layout_constraintTop_toBottomOf="@+id/Day4" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

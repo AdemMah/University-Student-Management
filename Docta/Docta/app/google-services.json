@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856174726341",
+    "project_id": "docta-l3mi",
+    "storage_bucket": "docta-l3mi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856174726341:android:071e74bc49cd45e881b4ac",
+        "android_client_info": {
+          "package_name": "com.example.docta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856174726341-rrocebmdouhr0518vs6p5meabs5bv88n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docta",
+            "certificate_hash": "720b54450af579563a31bcc67039af54b1515ede"
+          }
+        },
+        {
+          "client_id": "856174726341-7vccr4hfculj748407br6940b2pe8pq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABfcDUv0RxTu_h97RID7VNSltnayeUzM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856174726341-7vccr4hfculj748407br6940b2pe8pq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
